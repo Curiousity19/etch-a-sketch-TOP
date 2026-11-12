@@ -37,8 +37,8 @@
 }
 
 .pixel {
-    height: calc(100% / 16);
-    width: calc(100% / 16);
+    /* height: calc(100% / 16);
+    width: calc(100% / 16); */
 }
 
 .colored {
